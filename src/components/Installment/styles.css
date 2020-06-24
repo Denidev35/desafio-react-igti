@@ -1,0 +1,17 @@
+li {
+  list-style: none;
+}
+
+ul {
+  border: 1px solid lightgrey;
+  padding: 10px;
+  width: 200px;
+}
+
+.negative {
+  color: #ff0000;
+}
+
+.positive {
+  color: #0066ff;
+}
